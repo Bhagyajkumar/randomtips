@@ -1,4 +1,5 @@
 [
+"Test message",
 "Tip: If you are going to do any work with files using your App, you will require File Read/Write Permissions. This is true for loading a local file to a WebView. Just go into any Activity's onCreate Event and add a Blank(Empty) Write To File Block.",
 "Information: When using the forever blocks in Sketchware, you need to be able to stop/exit this code. Otherwise, the app will not compile. Inside of the Forever Block, you will need to check for a specific condition to be true and use the StopBlock.",
 "Tip: When using Sketchware, check the View Source to see how the xml and java are formed. Sometimes there will be variables that can be used that aren't readily available via blocks and require ASD blocks to use them. Even some events don't actually expose these variables, but they are available in the parameters."
